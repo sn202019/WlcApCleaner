@@ -60,4 +60,4 @@ The current version **v1.0.0** is available via the [GitHub Releases](../../rele
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.txt).
+This project is licensed under the [MIT License](LICENSE).
